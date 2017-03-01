@@ -4,7 +4,7 @@ PATH
     mongoid_rails_migrations (1.1.0)
       activesupport (>= 5.0.0)
       bundler (>= 1.0.0)
-      mongoid (>= 4.0.0)
+      mongoid
       rails (>= 5.0.0)
       railties (>= 5.0.0)
 
